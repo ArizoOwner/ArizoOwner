@@ -5,17 +5,19 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=620&height=50&lines=Building+systems+that+think;Securing+what+matters;Crafting+digital+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Building+systems+that+think;Securing+what+matters;Crafting+digital+experiences;Optimizing+for+maximum+efficiency" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
 <!-- SOCIAL BADGES -->
-[![Website](https://img.shields.io/badge/amirmsr.ir-0d1117?style=for-the-badge&logo=google-chrome&logoColor=58a6ff)](https://amirmsr.ir)
-[![ArizoTeam](https://img.shields.io/badge/ArizoTeam.ir-0d1117?style=for-the-badge&logo=safari&logoColor=3fb950)](https://arizoteam.ir)
-[![Telegram](https://img.shields.io/badge/ArizoSupport-0d1117?style=for-the-badge&logo=telegram&logoColor=26a5e4)](https://t.me/ArizoSupport)
-[![Instagram](https://img.shields.io/badge/ArizoCompany-0d1117?style=for-the-badge&logo=instagram&logoColor=e4405f)](https://instagram.com/ArizoCompany)
-[![Email](https://img.shields.io/badge/ArizoSupport@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:ArizoSupport@gmail.com)
+<p align="center">
+  <a href="https://amirmsr.ir"><img src="https://img.shields.io/badge/Website-amirmsr.ir-0d1117?style=for-the-badge&logo=google-chrome&logoColor=58a6ff" alt="Website"/></a>
+  <a href="https://arizoteam.ir"><img src="https://img.shields.io/badge/ArizoTeam-ArizoTeam.ir-0d1117?style=for-the-badge&logo=safari&logoColor=3fb950" alt="ArizoTeam"/></a>
+  <a href="https://t.me/ArizoSupport"><img src="https://img.shields.io/badge/Telegram-ArizoSupport-0d1117?style=for-the-badge&logo=telegram&logoColor=26a5e4" alt="Telegram"/></a>
+  <a href="https://instagram.com/ArizoCompany"><img src="https://img.shields.io/badge/Instagram-ArizoCompany-0d1117?style=for-the-badge&logo=instagram&logoColor=e4405f" alt="Instagram"/></a>
+  <a href="mailto:ArizoSupport@gmail.com"><img src="https://img.shields.io/badge/Email-ArizoSupport@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email"/></a>
+</p>
 
 </div>
 
@@ -24,37 +26,35 @@
 
 <h2 align="center">⚡ About & Profile</h2>
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
+
+### 🏷️ **Amir Hossein Tighi** (`AmirMSR`)
+
+* 📍 **Location:** Tabriz, East Azerbaijan, Iran
+* 🏢 **Studio:** **Arizo** — Development & Design Studio
+* 🎓 **Education:** Software Engineering · Fannie-Herfeyi University
+
+---
+
+* 🔹 **Full-Stack Development:** Modern, high-performance web systems
+* 🔹 **Network & Security:** Secure architecture & penetration testing
+* 🔹 **UI/UX & Identity:** Clean visual design & user experience
+* 🔹 **Smart Solutions:** AI-powered applications & stable infrastructure
 
 <br/>
 
-🏷️ **Amir Hossein Tighi** (`AmirMSR`)
-
-📍 Tabriz, East Azerbaijan, Iran  
-🏢 **Arizo** — Development & Design Studio  
-🎓 Software Engineering · Fannie-Herfeyi University  
-
-<br/>
-
-🔹 **Full-Stack Development:** Modern, high-performance web systems  
-🔹 **Network & Security:** Secure architecture & penetration testing  
-🔹 **UI/UX & Identity:** Clean visual design & user experience  
-🔹 **Smart Solutions:** AI-powered applications & stable infrastructure  
-
-<br/>
-
-[![Website](https://img.shields.io/badge/amirmsr.ir-58a6ff?style=flat-square&logo=google-chrome&logoColor=white)](https://amirmsr.ir)
-[![ArizoTeam](https://img.shields.io/badge/ArizoTeam.ir-3fb950?style=flat-square&logo=safari&logoColor=white)](https://arizoteam.ir)
+<p align="left">
+  <a href="https://amirmsr.ir"><img src="https://img.shields.io/badge/amirmsr.ir-58a6ff?style=flat-square&logo=google-chrome&logoColor=white" alt="amirmsr.ir"/></a>
+  <a href="https://arizoteam.ir"><img src="https://img.shields.io/badge/ArizoTeam.ir-3fb950?style=flat-square&logo=safari&logoColor=white" alt="ArizoTeam.ir"/></a>
+</p>
 
 </td>
-<td width="50%" align="center" valign="middle">
-
-<br/>
+<td width="45%" align="center" valign="middle">
 
 <a href="https://amirmsr.ir">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=System%20Status%20:%20Online&fontSize=22&fontColor=34d399&animation=fadeIn&desc=%E2%96%B8%20Full-Stack%20Web%20Architecture%20%7C%20Network%20Security&descSize=13&descColor=8b949e" width="360"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=System%20Status%20:%20Online&fontSize=22&fontColor=34d399&animation=fadeIn&desc=%E2%96%B8%20Full-Stack%20Web%20Architecture%20%7C%20Network%20Security&descSize=13&descColor=8b949e" width="100%"/>
 </a>
 
 </td>
@@ -70,9 +70,30 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,cs,mysql,bootstrap,jquery,git,linux,ps,figma,kali,wireshark,regex,postman,tailwind,nodejs&theme=dark&perline=6" alt="Tech Stack"/>
+<table style="border: none;">
+<tr>
+<td align="center" style="border: none;">
+<b>Frontend & UI/UX</b><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,jquery,figma,ps&theme=dark" alt="Frontend Stack"/>
+</td>
+</tr>
+<tr>
+<td align="center" style="border: none;">
+<br/>
+<b>Backend, Logic & Database</b><br/>
+<img src="https://skillicons.dev/icons?i=php,cs,nodejs,mysql,regex&theme=dark" alt="Backend Stack"/>
+</td>
+</tr>
+<tr>
+<td align="center" style="border: none;">
+<br/>
+<b>Security, Network & DevOps</b><br/>
+<img src="https://skillicons.dev/icons?i=linux,kali,wireshark,git,postman&theme=dark" alt="Security & Tools"/>
+</td>
+</tr>
+</table>
 
-<br/><br/>
+<br/>
 
 </div>
 
@@ -85,11 +106,11 @@
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
-<h3>ArizoTeam.ir</h3>
+### 🌐 ArizoTeam.ir
 <a href="https://arizoteam.ir" target="_blank">
   <img src="https://img.shields.io/badge/LIVE-arizoteam.ir-58a6ff?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
@@ -103,9 +124,9 @@
 </p>
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
-<h3>ArizoGame.ir</h3>
+### 🎮 ArizoGame.ir
 <a href="https://arizogame.ir" target="_blank">
   <img src="https://img.shields.io/badge/LIVE-arizogame.ir-3fb950?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
@@ -121,9 +142,9 @@
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
-<h3>Bozorgmehr Digital Print</h3>
+### 🖨️ Bozorgmehr Digital Print
 <a href="https://bozorgmehrofficial.ir" target="_blank">
   <img src="https://img.shields.io/badge/LIVE-bozorgmehr.ir-da3633?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
@@ -136,9 +157,9 @@
 </p>
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
-<h3>amirmsr.ir</h3>
+### 💻 amirmsr.ir
 <a href="https://amirmsr.ir" target="_blank">
   <img src="https://img.shields.io/badge/LIVE-amirmsr.ir-d29922?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
@@ -170,7 +191,7 @@
 
 <br/><br/>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/ARCHITECTURE-FULL--STACK-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=58a6ff"/>
   <img src="https://img.shields.io/badge/SECURITY-HARDENED-0d1117?style=for-the-badge&logo=kalilinux&logoColor=3fb950"/>
   <img src="https://img.shields.io/badge/EFFICIENCY-O(log_n)-0d1117?style=for-the-badge&logo=speedtest&logoColor=d29922"/>
