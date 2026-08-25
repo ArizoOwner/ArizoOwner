@@ -1,112 +1,164 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         HERO SECTION                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- HERO SECTION / BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a1b27,75:161b22,100:0d1117&height=250&section=header&text=Amir%20Hossein%20Tighi&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%E2%80%A2%20Security%20Researcher%20%E2%80%A2%20Full-Stack%20Architect&descSize=16&descColor=8b949e&descAlignY=55"/>
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:05070a,45:0d1117,75:111827,100:05070a&height=280&section=header&text=AMIR%20HOSSEIN%20TIGHI&fontSize=46&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=FULL-STACK%20DEVELOPER%20%20%E2%80%A2%20%20SECURITY%20%20%E2%80%A2%20%20UI%2FUX%20DESIGNER&descSize=15&descColor=8b949e&descAlignY=56"
-/>
-
-<br>
-
-<a href="https://amirmsr.ir">
-  <img src="https://img.shields.io/badge/PORTFOLIO-amirmsr.ir-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff" />
+<!-- DYNAMIC TYPING TEXT -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Building+high-performance+web+architectures;Deep+diving+into+Algorithms+%26+C%23;Securing+networks+and+digital+identities;Crafting+pixel-perfect+UI%2FUX+experiences" alt="Typing SVG" />
 </a>
 
-<a href="https://arizoteam.ir">
-  <img src="https://img.shields.io/badge/STUDIO-Arizo-0d1117?style=for-the-badge&logo=codeberg&logoColor=3fb950" />
-</a>
+<br/>
 
-<a href="https://github.com/ArizoOwner">
-  <img src="https://img.shields.io/badge/GITHUB-ArizoOwner-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" />
-</a>
+<!-- SLEEK SOCIAL BADGES -->
+<p align="center">
+  <a href="https://amirmsr.ir"><img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=google-chrome&logoColor=58a6ff&border=58a6ff" alt="Website"/></a>
+  <a href="https://arizoteam.ir"><img src="https://img.shields.io/badge/ArizoTeam-0d1117?style=for-the-badge&logo=safari&logoColor=3fb950&border=3fb950" alt="ArizoTeam"/></a>
+  <a href="https://t.me/ArizoSupport"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=26a5e4" alt="Telegram"/></a>
+  <a href="https://instagram.com/ArizoCompany"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=e4405f" alt="Instagram"/></a>
+  <a href="mailto:ArizoSupport@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email"/></a>
+</p>
 
-<a href="https://t.me/ArizoSupport">
-  <img src="https://img.shields.io/badge/TELEGRAM-ArizoSupport-0d1117?style=for-the-badge&logo=telegram&logoColor=26a5e4" />
-</a>
-
-<a href="mailto:ArizoSupport@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-ArizoSupport-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335" />
-</a>
-
-<br><br>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=760&height=50&lines=Building+Digital+Systems;Engineering+Secure+Web+Experiences;Designing+Interfaces+That+Feel+Alive;Turning+Ideas+Into+Production+Systems"
-/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ArizoOwner&style=flat-square&color=58a6ff&label=PROFILE+VIEWS" />
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 </div>
 
----
+## 👨‍💻 Terminal: `whoami`
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+**`> system.info()`**
+- 🏷️ **Alias:** AmirMSR
+- 📍 **Location:** Tabriz, East Azerbaijan, Iran
+- 🏢 **Organization:** Arizo — Development & Design Studio
+- 🎓 **Focus:** Software Engineering, Advanced Data Structures, and Algorithmic Efficiency
+
+**`> system.skills_summary()`**
+- 🔹 **Architecture:** Designing lightweight, database-independent JSON storage systems & dynamic routing.
+- 🔹 **Logic & Backend:** Exploring C# OOP, compound operators, and $O(\log n)$ algorithms like Binary Search.
+- 🔹 **Security:** Network hardening, penetration testing, and vulnerability assessment.
+- 🔹 **Customization:** Advanced Windows/PowerShell environments, RTL typography injection, and UI logic.
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<!-- GITHUB STATS CARD -->
+<img src="https://github-readme-stats.vercel.app/api?username=AmirMSR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e" alt="GitHub Stats" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-# `SYSTEM.IDENTITY`
+<h2>⚔️ Tech Stack & Arsenal</h2>
 
-### Amir Hossein Tighi
+<br/>
 
-`AmirMSR` · Developer · Designer · Security Enthusiast
+<!-- CATEGORIZED SKILLS -->
+**`> Frontend & UI/UX`**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,jquery,figma&theme=dark" /><br/><br/>
 
+**`> Backend & Core Logic`**<br/>
+<img src="https://skillicons.dev/icons?i=php,cs,nodejs,mysql,regex&theme=dark" /><br/><br/>
+
+**`> Security, OS & Tools`**<br/>
+<img src="https://skillicons.dev/icons?i=linux,kali,ps,git,github,postman&theme=dark" /><br/>
+
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<h2>🚀 Mission-Critical Projects</h2>
 </div>
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="55%" valign="top">
+### 🌐 [amirmsr.ir](https://amirmsr.ir)
+> **Personal Portfolio & Interactive Canvas**
+> Engineered with a custom PHP backend utilizing lightweight `projects_data.json` for metadata management, bypassing heavy SQL databases for ultra-fast dynamic directory scanning and rendering.
+<br/>
 
-## ⚡ About Me
-
-I'm a **Software Engineering student** and developer focused on building modern digital products across the full stack.
-
-My interests combine:
-
-**Web Development**  
-Modern, scalable and high-performance web applications.
-
-**Security**  
-Network security, secure architecture and application testing.
-
-**UI / UX**  
-Interfaces that are functional, minimal and visually distinctive.
-
-**Systems**  
-Reliable infrastructure, backend architecture and automation.
-
-**AI & Smart Solutions**  
-Turning ideas into intelligent digital experiences.
-
-<br>
-
-📍 **Tabriz, East Azerbaijan, Iran**
-
-🏢 **Arizo — Development & Design Studio**
-
-🎓 **Software Engineering**
+<a href="https://amirmsr.ir" target="_blank">
+  <img src="https://img.shields.io/badge/LIVE-DEPLOYMENT-d29922?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<br/><br/>
+<img src="https://img.shields.io/badge/PHP_Backend-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/JSON_Architecture-000000?style=flat-square&logo=json&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5_Canvas-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 
 </td>
+<td width="50%" valign="top">
 
-<td width="45%" valign="top">
+### 🟢 [ArizoTeam.ir](https://arizoteam.ir)
+> **Arizo Team Official Architecture**
+> High-performance corporate presence built for SEO optimization, fast load times, and fluid user experience. Demonstrates clean front-end separation and strict semantic structure.
+<br/>
 
-## 🛰 Current Focus
+<a href="https://arizoteam.ir" target="_blank">
+  <img src="https://img.shields.io/badge/LIVE-DEPLOYMENT-58a6ff?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<br/><br/>
+<img src="https://img.shields.io/badge/UI/UX_Design-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/JS_Logic-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Technical_SEO-4285F4?style=flat-square&logo=google&logoColor=white"/>
 
-```text
-┌─────────────────────────────────┐
-│       AMIRMSR // ONLINE         │
-├─────────────────────────────────┤
-│                                 │
-│ WEB        ███████████████░  95% │
-│ SECURITY   █████████████░░░  88% │
-│ UI / UX    ██████████████░░  90% │
-│ BACKEND    █████████████░░░  87% │
-│ SYSTEMS    ███████████░░░░░  78% │
-│                                 │
-├─────────────────────────────────┤
-│ STATUS : BUILDING               │
-│ MODE   : ENGINEERING             │
-└─────────────────────────────────┘
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 [ArizoGame.ir](https://arizogame.ir)
+> **Gaming Platform Ecosystem**
+> Full-stack gaming hub featuring secure user authentication, complex relational database structures (MySQL), and dynamic content delivery via robust PHP integration.
+<br/>
+
+<a href="https://arizogame.ir" target="_blank">
+  <img src="https://img.shields.io/badge/LIVE-DEPLOYMENT-3fb950?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<br/><br/>
+<img src="https://img.shields.io/badge/MySQL_Database-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP_Auth-777BB4?style=flat-square&logo=php&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🖨️ [Bozorgmehr Official](https://bozorgmehrofficial.ir)
+> **Corporate Digital Print Service**
+> Business-to-client interface focusing on conversion rates, responsive cross-device formatting, and secure query handling for print orders and corporate communications.
+<br/>
+
+<a href="https://bozorgmehrofficial.ir" target="_blank">
+  <img src="https://img.shields.io/badge/LIVE-DEPLOYMENT-da3633?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<br/><br/>
+<img src="https://img.shields.io/badge/Responsive_CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/System_Design-0d1117?style=flat-square&logo=cpanel&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<h2>📊 Telemetry & Activity Graph</h2>
+
+<p align="center">
+  <!-- TOP LANGUAGES CARD -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMSR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" alt="Top Languages"/>
+</p>
+
+<!-- SNAKE ANIMATION (KEEPS THE GITHUB GRID ALIVE) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=footer"/>
+</div>
