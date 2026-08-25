@@ -1,31 +1,30 @@
 <div align="center">
 
-<!-- CYBERPUNK NEON GLITCH BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05050a,20:0d0221,45:ff0055,75:00f0ff,100:05050a&height=260&section=header&text=%E2%9A%A1%20Amir%20Hossein%20Tighi&fontSize=48&fontColor=00f0ff&animation=twinkling&fontAlignY=33&desc=%E2%96%B8%20NETRUNNER%20%7C%20SECURITY%20OPERATIVE%20%7C%20FULL-STACK%20ARCHITECT&descSize=15&descColor=ff0055&descAlignY=55"/>
+<!-- ==================== CYBERPUNK HUD HERO HEADER ==================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05050a,20:0a0e17,45:ff0055,75:00f0ff,100:05050a&height=265&section=header&text=%E2%9A%A1%20Amir%20Hossein%20Tighi&fontSize=48&fontColor=00f0ff&animation=twinkling&fontAlignY=33&desc=%E2%96%B8%20Web%20Developer%20%E2%80%A2%20Security%20Engineer%20%E2%80%A2%20UI%2FUX%20Designer&descSize=16&descColor=ff0055&descAlignY=55"/>
 
-<!-- CYBER TERMINAL TYPING SVG -->
+<!-- ==================== DYNAMIC MULTI-LINE TYPING TERMINAL ==================== -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=800&color=00F0FF&center=true&vCenter=true&repeat=true&width=780&height=45&lines=%5BINIT%5D_Neural_Link_Connected...;%3E+SYS_ACCESS%3A+Building+Cognitive+Architectures;%3E+SEC_PROTOCOL%3A+Hardening+Cyber+Infrastructure;%3E+MATRIX_UI%3A+Synthesizing+Pixel-Perfect+Experiences;while(cyberspace.active)+%7B+override()%3B+deploy()%3B+%7D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=850&color=00F0FF&center=true&vCenter=true&repeat=true&width=780&height=45&lines=Building+systems+that+think;Securing+what+matters;Crafting+digital+experiences;Optimizing+for+maximum+efficiency;while(cyberspace.active)+%7B+deploy()%3B+%7D" alt="Cyberpunk Typing SVG" />
 </a>
 
 <br/>
 
-<!-- CYBERNETIC BADGES -->
+<!-- ==================== NEON CONNECTIVITY BADGES ==================== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/CYBERDECK-OVERCLOCKED-05050a?style=for-the-badge&logo=cpu&logoColor=fcee0a&labelColor=05050a&color=ff0055" alt="Status"/>
-  <a href="https://amirmsr.ir"><img src="https://img.shields.io/badge/NET--LINK-amirmsr.ir-05050a?style=for-the-badge&logo=google-chrome&logoColor=00f0ff&color=00f0ff" alt="Website"/></a>
-  <a href="https://arizoteam.ir"><img src="https://img.shields.io/badge/GRID--HQ-ArizoTeam.ir-05050a?style=for-the-badge&logo=safari&logoColor=39ff14&color=39ff14" alt="ArizoTeam"/></a>
-  <a href="https://t.me/ArizoSupport"><img src="https://img.shields.io/badge/COMM--LINK-ArizoSupport-05050a?style=for-the-badge&logo=telegram&logoColor=00f0ff&color=00f0ff" alt="Telegram"/></a>
-  <a href="https://instagram.com/ArizoCompany"><img src="https://img.shields.io/badge/HOLONET-ArizoCompany-05050a?style=for-the-badge&logo=instagram&logoColor=ff007f&color=ff007f" alt="Instagram"/></a>
-  <a href="mailto:ArizoSupport@gmail.com"><img src="https://img.shields.io/badge/ENCRYPTED--MAIL-ArizoSupport-05050a?style=for-the-badge&logo=gmail&logoColor=ff0055&color=ff0055" alt="Email"/></a>
+  <a href="https://amirmsr.ir"><img src="https://img.shields.io/badge/amirmsr.ir-05050a?style=for-the-badge&logo=google-chrome&logoColor=00f0ff&labelColor=05050a&color=00f0ff" alt="Website"/></a>
+  <a href="https://arizoteam.ir"><img src="https://img.shields.io/badge/ArizoTeam.ir-05050a?style=for-the-badge&logo=safari&logoColor=39ff14&labelColor=05050a&color=39ff14" alt="ArizoTeam"/></a>
+  <a href="https://t.me/ArizoSupport"><img src="https://img.shields.io/badge/ArizoSupport-05050a?style=for-the-badge&logo=telegram&logoColor=00f0ff&labelColor=05050a&color=00f0ff" alt="Telegram"/></a>
+  <a href="https://instagram.com/ArizoCompany"><img src="https://img.shields.io/badge/ArizoCompany-05050a?style=for-the-badge&logo=instagram&logoColor=ff007f&labelColor=05050a&color=ff007f" alt="Instagram"/></a>
+  <a href="mailto:ArizoSupport@gmail.com"><img src="https://img.shields.io/badge/ArizoSupport%40gmail.com-05050a?style=for-the-badge&logo=gmail&logoColor=ff0055&labelColor=05050a&color=ff0055" alt="Email"/></a>
 </p>
 
 </div>
 
-<!-- NEON GLITCH DIVIDER -->
+<!-- NEON GLITCH SEPARATOR -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-<h2 align="center">⚡ // ROOT_TERMINAL: <code>whoami</code></h2>
+<h2 align="center">⚡ // ROOT_TERMINAL: About & Profile</h2>
 
 <table width="100%">
 <tr>
@@ -33,56 +32,56 @@
 
 ### 🏷️ **Amir Hossein Tighi** (`AmirMSR`)
 
-* 📍 **Geographic Node:** Tabriz, East Azerbaijan, Iran
-* 🏢 **Cyber Syndicate:** **Arizo** — Development & Design Studio
-* 🎓 **Neural Training:** Software Engineering · Fannie-Herfeyi University
+* 📍 **Geographic Location:** Tabriz, East Azerbaijan, Iran
+* 🏢 **Cyber Studio:** **Arizo** — Development & Design Studio
+* 🎓 **Academic Foundation:** Software Engineering · Fannie-Herfeyi University
 
 ---
 
-* 🔹 **Full-Stack Grid:** High-frequency, modern full-stack web systems
-* 🔹 **Cyber Warfare & Security:** Threat modeling, perimeter hardening & penetration testing
-* 🔹 **Cybernetic UI/UX:** High-contrast, intuitive visual design & user interfaces
-* 🔹 **Smart Autonomous Agents:** AI integrations & fault-tolerant cluster architectures
+* 🔹 **Full-Stack Development:** Modern, high-performance web systems
+* 🔹 **Network & Security:** Secure architecture & penetration testing
+* 🔹 **UI/UX & Identity:** Clean visual design & user experience
+* 🔹 **Smart Solutions:** AI-powered applications & stable infrastructure
 
 <br/>
 
 <p align="left">
-  <a href="https://amirmsr.ir"><img src="https://img.shields.io/badge/amirmsr.ir-00f0ff?style=flat-square&logo=google-chrome&logoColor=black" alt="amirmsr.ir"/></a>
-  <a href="https://arizoteam.ir"><img src="https://img.shields.io/badge/ArizoTeam.ir-ff0055?style=flat-square&logo=safari&logoColor=white" alt="ArizoTeam.ir"/></a>
+  <a href="https://amirmsr.ir"><img src="https://img.shields.io/badge/amirmsr.ir-00f0ff?style=flat-square&logo=google-chrome&logoColor=black" alt="Website"/></a>
+  <a href="https://arizoteam.ir"><img src="https://img.shields.io/badge/ArizoTeam.ir-39ff14?style=flat-square&logo=safari&logoColor=black" alt="ArizoTeam"/></a>
 </p>
 
 </td>
 <td width="45%" align="center" valign="middle">
 
 <a href="https://amirmsr.ir">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:05050a,40:0d0221,75:ff0055,100:00f0ff&height=230&section=header&text=System%20Status%20:%20OVERCLOCKED&fontSize=18&fontColor=fcee0a&animation=twinkling&desc=%E2%96%B8%20Neural%20Matrix%20%7C%20Penetration%20Testing&descSize=12&descColor=00f0ff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:05050a,40:0d0221,75:ff0055,100:00f0ff&height=230&section=header&text=System%20Status%20:%20Online&fontSize=20&fontColor=fcee0a&animation=twinkling&desc=%E2%96%B8%20Full-Stack%20Web%20Architecture%20%7C%20Network%20Security&descSize=12&descColor=00f0ff" width="100%"/>
 </a>
 
 </td>
 </tr>
 </table>
 
-<!-- NEON GLITCH DIVIDER -->
+<!-- NEON GLITCH SEPARATOR -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 <div align="center">
 
-<h2>🛠 // CYBER_ARSENAL & PROTOCOLS</h2>
+<h2>🛠 // CYBER_ARSENAL: Tech Stack & Tools</h2>
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
 <td align="center" width="100%">
 
-**`⚡ Front-End Subsystems & Holographic Interfaces`**<br/><br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,jquery,figma,ps&theme=dark" alt="Frontend Arsenal"/><br/><br/>
+**`⚡ Frontend & Visual Engineering`**<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,jquery,figma,ps&theme=dark" alt="Frontend & UI/UX Stack"/><br/><br/>
 
-**`⚡ Core Engines, Logic & Data Matrix`**<br/><br/>
-<img src="https://skillicons.dev/icons?i=php,cs,nodejs,mysql,regex&theme=dark" alt="Backend Arsenal"/><br/><br/>
+**`⚡ Backend, Logic & Database Architecture`**<br/><br/>
+<img src="https://skillicons.dev/icons?i=php,cs,nodejs,mysql,regex&theme=dark" alt="Backend & Logic Stack"/><br/><br/>
 
-**`⚡ Cyber Defense, Network Analysis & Shell Ops`**<br/><br/>
-<img src="https://skillicons.dev/icons?i=linux,kali,wireshark,git,postman&theme=dark" alt="Security Operations"/>
+**`⚡ Security, Systems & Network Analysis`**<br/><br/>
+<img src="https://skillicons.dev/icons?i=linux,kali,wireshark,git,postman&theme=dark" alt="Security, Network & Tools Stack"/>
 
 </td>
 </tr>
@@ -92,12 +91,12 @@
 
 </div>
 
-<!-- NEON GLITCH DIVIDER -->
+<!-- NEON GLITCH SEPARATOR -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 <div align="center">
 
-<h2>🚀 // DEPLOYED_GRID_PROJECTS</h2>
+<h2>🚀 // MAINFRAME: Featured Projects</h2>
 
 <br/>
 
@@ -107,12 +106,12 @@
 
 ### 🌐 ArizoTeam.ir
 <a href="https://arizoteam.ir" target="_blank">
-  <img src="https://img.shields.io/badge/GRID--ACTIVE-arizoteam.ir-00f0ff?style=for-the-badge&logo=vercel&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LIVE-arizoteam.ir-00f0ff?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
-<p><strong>Arizo Team Official Mainframe</strong></p>
+<p><strong>Arizo Team Official Website</strong></p>
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/SEO-4285F4?style=flat-square&logo=google&logoColor=white"/>
@@ -123,12 +122,12 @@
 
 ### 🎮 ArizoGame.ir
 <a href="https://arizogame.ir" target="_blank">
-  <img src="https://img.shields.io/badge/GRID--ACTIVE-arizogame.ir-39ff14?style=for-the-badge&logo=vercel&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LIVE-arizogame.ir-39ff14?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
-<p><strong>Interactive Gaming Platform & Backend Core</strong></p>
+<p><strong>Gaming Platform with Full Backend</strong></p>
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
@@ -141,12 +140,12 @@
 
 ### 🖨️ Bozorgmehr Digital Print
 <a href="https://bozorgmehrofficial.ir" target="_blank">
-  <img src="https://img.shields.io/badge/GRID--ACTIVE-bozorgmehr.ir-ff0055?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LIVE-bozorgmehr.ir-ff0055?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<p><strong>Commercial Printing Interface & Engine</strong></p>
+<p><strong>Corporate Website + SEO Optimization</strong></p>
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 </p>
@@ -156,12 +155,12 @@
 
 ### 💻 amirmsr.ir
 <a href="https://amirmsr.ir" target="_blank">
-  <img src="https://img.shields.io/badge/GRID--ACTIVE-amirmsr.ir-fcee0a?style=for-the-badge&logo=vercel&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LIVE-amirmsr.ir-fcee0a?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
-<p><strong>Personal CyberDeck & Canvas Visualizer</strong></p>
+<p><strong>Personal Portfolio & Interactive Canvas</strong></p>
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canvas-ff6d00?style=flat-square&logo=html5&logoColor=white"/>
@@ -173,25 +172,25 @@
 
 </div>
 
-<!-- NEON GLITCH DIVIDER -->
+<!-- NEON GLITCH SEPARATOR -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 <div align="center">
 
-<h2>📊 // TELEMETRY & HARDWARE_METRICS</h2>
+<h2>📊 // TELEMETRY: Engineering & Performance Telemetry</h2>
 
 <br/>
 
-<!-- ANIMATED CYBERPUNK TELEMETRY PANEL -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05050a,25:0d0221,70:ff0055,100:00f0ff&height=110&section=header&text=System%20Telemetry%20%26%20Metrics&fontSize=22&fontColor=fcee0a&animation=twinkling&desc=Engineered%20for%20Performance%2C%20Security%20%26%20Elegance&descSize=13&descColor=00f0ff" width="95%"/>
+<!-- ANIMATED TELEMETRY HUD -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05050a,25:0a0e17,70:ff0055,100:00f0ff&height=110&section=header&text=System%20Telemetry%20%26%20Metrics&fontSize=22&fontColor=fcee0a&animation=twinkling&desc=Engineered%20for%20Performance%2C%20Security%20%26%20Elegance&descSize=13&descColor=00f0ff" width="95%"/>
 
 <br/><br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CORE_ARCH-FULL--STACK-05050a?style=for-the-badge&logo=visualstudiocode&logoColor=00f0ff&color=00f0ff"/>
-  <img src="https://img.shields.io/badge/SEC_GRADE-MIL--SPEC-05050a?style=for-the-badge&logo=kalilinux&logoColor=ff0055&color=ff0055"/>
+  <img src="https://img.shields.io/badge/ARCHITECTURE-FULL--STACK-05050a?style=for-the-badge&logo=visualstudiocode&logoColor=00f0ff&color=00f0ff"/>
+  <img src="https://img.shields.io/badge/SECURITY-HARDENED-05050a?style=for-the-badge&logo=kalilinux&logoColor=ff0055&color=ff0055"/>
   <img src="https://img.shields.io/badge/EFFICIENCY-O(log_n)-05050a?style=for-the-badge&logo=speedtest&logoColor=fcee0a&color=fcee0a"/>
-  <img src="https://img.shields.io/badge/GRID_UPTIME-4+_YEARS-05050a?style=for-the-badge&logo=statuspage&logoColor=39ff14&color=39ff14"/>
+  <img src="https://img.shields.io/badge/UPTIME-4+_YEARS-05050a?style=for-the-badge&logo=statuspage&logoColor=39ff14&color=39ff14"/>
 </p>
 
 <br/>
@@ -206,6 +205,6 @@
 <br/><br/>
 
 <!-- CYBERPUNK WAVING FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05050a,25:0d0221,50:ff0055,75:00f0ff,100:05050a&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05050a,25:0a0e17,50:ff0055,75:00f0ff,100:05050a&height=120&section=footer"/>
 
 </div>
