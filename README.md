@@ -54,7 +54,7 @@
 <br/>
 
 <a href="https://github.com/ArizoOwner">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArizoOwner&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" width="340"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArizoOwner&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" width="340"/>
 </a>
 
 </td>
@@ -167,8 +167,8 @@
 <br/>
 
 <a href="https://github.com/ArizoOwner">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArizoOwner&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArizoOwner&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArizoOwner&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArizoOwner&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
 </a>
 
 <br/><br/>
@@ -176,18 +176,6 @@
 <!-- STREAK -->
 <a href="https://github.com/ArizoOwner">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArizoOwner&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e"/>
-</a>
-
-<br/><br/>
-
-<!-- TROPHIES -->
-<img src="https://github-profile-trophy.vercel.app/?username=ArizoOwner&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=15"/>
-
-<br/><br/>
-
-<!-- ACTIVITY GRAPH -->
-<a href="https://github.com/ArizoOwner">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArizoOwner&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&area=true&area_color=238636&hide_border=true&custom_title=Contribution%20Graph"/>
 </a>
 
 </div>
@@ -208,7 +196,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ArizoOwner&label=Profile%20Views&color=58a6ff&style=for-the-badge&abbreviated=true"/>
+<img src="https://img.shields.io/badge/Profile_Views-ArizoOwner-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
 
 <br/><br/>
 
