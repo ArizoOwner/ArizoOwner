@@ -1,27 +1,28 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a1b27,75:161b22,100:0d1117&height=250&section=header&text=Amir%20Hossein%20Tighi&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=32&desc=Web%20Developer%20%E2%80%A2%20Security%20Engineer%20%E2%80%A2%20UI%2FUX%20Designer&descSize=17&descColor=8b949e&descAlignY=55"/>
+<!-- ANIMATED MULTI-GRADIENT HERO HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:161b22,45:1f293d,70:1a2332,100:0d1117&height=260&section=header&text=Amir%20Hossein%20Tighi&fontSize=50&fontColor=58a6ff&animation=twinkling&fontAlignY=33&desc=%E2%9A%A1%20Web%20Developer%20%E2%80%A2%20Security%20Engineer%20%E2%80%A2%20UI%2FUX%20Designer&descSize=16&descColor=8b949e&descAlignY=55"/>
 
-<!-- TYPING SVG -->
+<!-- DYNAMIC CYBERPUNK TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Building+systems+that+think;Securing+what+matters;Crafting+digital+experiences;Optimizing+for+maximum+efficiency" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=45&lines=const+developer+%3D+new+Engineer('AmirMSR')%3B;Building+systems+that+think+%26+scale%3B;Hardening+networks+and+securing+what+matters%3B;Crafting+flawless+digital+experiences+%26+UI%2FUX%3B;while(alive)+%7B+code()%3B+optimize()%3B+%7D" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- SOCIAL BADGES -->
+<!-- SYSTEM STATUS & SOCIAL BADGES -->
 <p align="center">
+  <img src="https://img.shields.io/badge/STATUS-SYSTEMS%20ONLINE-0d1117?style=for-the-badge&logo=statuspal&logoColor=34d399&labelColor=0d1117" alt="System Status"/>
   <a href="https://amirmsr.ir"><img src="https://img.shields.io/badge/Website-amirmsr.ir-0d1117?style=for-the-badge&logo=google-chrome&logoColor=58a6ff" alt="Website"/></a>
   <a href="https://arizoteam.ir"><img src="https://img.shields.io/badge/ArizoTeam-ArizoTeam.ir-0d1117?style=for-the-badge&logo=safari&logoColor=3fb950" alt="ArizoTeam"/></a>
   <a href="https://t.me/ArizoSupport"><img src="https://img.shields.io/badge/Telegram-ArizoSupport-0d1117?style=for-the-badge&logo=telegram&logoColor=26a5e4" alt="Telegram"/></a>
   <a href="https://instagram.com/ArizoCompany"><img src="https://img.shields.io/badge/Instagram-ArizoCompany-0d1117?style=for-the-badge&logo=instagram&logoColor=e4405f" alt="Instagram"/></a>
-  <a href="mailto:ArizoSupport@gmail.com"><img src="https://img.shields.io/badge/Email-ArizoSupport@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email"/></a>
+  <a href="mailto:ArizoSupport@gmail.com"><img src="https://img.shields.io/badge/Email-ArizoSupport%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email"/></a>
 </p>
 
 </div>
 
-<!-- DIVIDER -->
+<!-- NEON GLOW DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 <h2 align="center">⚡ About & Profile</h2>
@@ -32,9 +33,9 @@
 
 ### 🏷️ **Amir Hossein Tighi** (`AmirMSR`)
 
-* 📍 **Location:** Tabriz, East Azerbaijan, Iran
-* 🏢 **Studio:** **Arizo** — Development & Design Studio
-* 🎓 **Education:** Software Engineering · Fannie-Herfeyi University
+* 📍 **Base Location:** Tabriz, East Azerbaijan, Iran
+* 🏢 **Headquarters:** **Arizo** — Development & Design Studio
+* 🎓 **Academic:** Software Engineering · Fannie-Herfeyi University
 
 ---
 
@@ -54,14 +55,14 @@
 <td width="45%" align="center" valign="middle">
 
 <a href="https://amirmsr.ir">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=System%20Status%20:%20Online&fontSize=22&fontColor=34d399&animation=fadeIn&desc=%E2%96%B8%20Full-Stack%20Web%20Architecture%20%7C%20Network%20Security&descSize=13&descColor=8b949e" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,40:161b22,80:1f293d,100:0d1117&height=230&section=header&text=System%20Status%20:%20Online&fontSize=22&fontColor=34d399&animation=twinkling&desc=%E2%96%B8%20Full-Stack%20Web%20Architecture%20%7C%20Network%20Security&descSize=13&descColor=8b949e" width="100%"/>
 </a>
 
 </td>
 </tr>
 </table>
 
-<!-- DIVIDER -->
+<!-- NEON GLOW DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 <div align="center">
@@ -70,25 +71,19 @@
 
 <br/>
 
-<table style="border: none;">
+<table>
 <tr>
-<td align="center" style="border: none;">
-<b>Frontend & UI/UX</b><br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,jquery,figma,ps&theme=dark" alt="Frontend Stack"/>
-</td>
-</tr>
-<tr>
-<td align="center" style="border: none;">
-<br/>
-<b>Backend, Logic & Database</b><br/>
-<img src="https://skillicons.dev/icons?i=php,cs,nodejs,mysql,regex&theme=dark" alt="Backend Stack"/>
-</td>
-</tr>
-<tr>
-<td align="center" style="border: none;">
-<br/>
-<b>Security, Network & DevOps</b><br/>
-<img src="https://skillicons.dev/icons?i=linux,kali,wireshark,git,postman&theme=dark" alt="Security & Tools"/>
+<td align="center" width="100%">
+
+**`⚡ Frontend & UI/UX Design`**<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,jquery,figma,ps&theme=dark" alt="Frontend & Design"/><br/><br/>
+
+**`⚡ Backend, Logic & Databases`**<br/><br/>
+<img src="https://skillicons.dev/icons?i=php,cs,nodejs,mysql,regex&theme=dark" alt="Backend & Logic"/><br/><br/>
+
+**`⚡ Security, Network & Workflow`**<br/><br/>
+<img src="https://skillicons.dev/icons?i=linux,kali,wireshark,git,postman&theme=dark" alt="Security & DevOps"/>
+
 </td>
 </tr>
 </table>
@@ -97,7 +92,7 @@
 
 </div>
 
-<!-- DIVIDER -->
+<!-- NEON GLOW DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 <div align="center">
@@ -178,7 +173,7 @@
 
 </div>
 
-<!-- DIVIDER -->
+<!-- NEON GLOW DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 <div align="center">
@@ -187,7 +182,8 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=110&section=header&text=System%20Telemetry%20%26%20Metrics&fontSize=22&fontColor=58a6ff&animation=fadeIn&desc=Engineered%20for%20Performance%2C%20Security%20%26%20Elegance&descSize=13&descColor=8b949e" width="95%"/>
+<!-- ANIMATED TELEMETRY PANEL -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,30:161b22,70:1f293d,100:0d1117&height=110&section=header&text=System%20Telemetry%20%26%20Metrics&fontSize=22&fontColor=58a6ff&animation=twinkling&desc=Engineered%20for%20Performance%2C%20Security%20%26%20Elegance&descSize=13&descColor=8b949e" width="95%"/>
 
 <br/><br/>
 
@@ -200,7 +196,7 @@
 
 <br/>
 
-<!-- SNAKE ANIMATION -->
+<!-- DYNAMIC SNAKE ANIMATION -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
@@ -209,7 +205,7 @@
 
 <br/><br/>
 
-</div>
+<!-- DYNAMIC WAVING FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161b22,70:1a2332,100:0d1117&height=120&section=footer"/>
 
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=footer"/>
+</div>
