@@ -22,26 +22,26 @@
 <!-- DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-<h2 align="center">⚡ About</h2>
+<h2 align="center">⚡ About & Profile</h2>
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 <br/>
 
-🏷️ **Amir Hossein Tighi** — Full-Stack Developer & Security Engineer
+🏷️ **Amir Hossein Tighi** (`AmirMSR`)
 
-📍 Tabriz, Iran
-🏢 **Arizo** — Development & Design Studio
-🎓 Software Engineering · Fannie-Herfeyi University
+📍 Tabriz, East Azerbaijan, Iran  
+🏢 **Arizo** — Development & Design Studio  
+🎓 Software Engineering · Fannie-Herfeyi University  
 
 <br/>
 
-🔹 Design & build professional web applications
-🔹 Network security & secure architecture
-🔹 Modern UI/UX & brand identity design
-🔹 AI-powered web solutions
+🔹 **Full-Stack Development:** Modern, high-performance web systems  
+🔹 **Network & Security:** Secure architecture & penetration testing  
+🔹 **UI/UX & Identity:** Clean visual design & user experience  
+🔹 **Smart Solutions:** AI-powered applications & stable infrastructure  
 
 <br/>
 
@@ -49,12 +49,12 @@
 [![ArizoTeam](https://img.shields.io/badge/ArizoTeam.ir-3fb950?style=flat-square&logo=safari&logoColor=white)](https://arizoteam.ir)
 
 </td>
-<td width="45%" align="center" valign="top">
+<td width="50%" align="center" valign="middle">
 
 <br/>
 
-<a href="https://github.com/ArizoOwner">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArizoOwner&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" width="340"/>
+<a href="https://amirmsr.ir">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=System%20Status%20:%20Online&fontSize=22&fontColor=34d399&animation=fadeIn&desc=%E2%96%B8%20Full-Stack%20Web%20Architecture%20%7C%20Network%20Security&descSize=13&descColor=8b949e" width="360"/>
 </a>
 
 </td>
@@ -66,11 +66,11 @@
 
 <div align="center">
 
-<h2>🛠 Tech Stack</h2>
+<h2>🛠 Tech Stack & Tools</h2>
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,cs,mysql,bootstrap,jquery,git,linux,ps,figma&theme=dark&perline=6" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,cs,mysql,bootstrap,jquery,git,linux,ps,figma,kali,wireshark,regex,postman,tailwind,nodejs&theme=dark&perline=6" alt="Tech Stack"/>
 
 <br/><br/>
 
@@ -142,7 +142,7 @@
 <a href="https://amirmsr.ir" target="_blank">
   <img src="https://img.shields.io/badge/LIVE-amirmsr.ir-d29922?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<p><strong>Personal Portfolio & Resume</strong></p>
+<p><strong>Personal Portfolio & Interactive Canvas</strong></p>
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -162,28 +162,20 @@
 
 <div align="center">
 
-<h2>📊 GitHub Analytics</h2>
+<h2>📊 Engineering & Performance Telemetry</h2>
 
 <br/>
 
-<a href="https://github.com/ArizoOwner">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArizoOwner&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArizoOwner&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=110&section=header&text=System%20Telemetry%20%26%20Metrics&fontSize=22&fontColor=58a6ff&animation=fadeIn&desc=Engineered%20for%20Performance%2C%20Security%20%26%20Elegance&descSize=13&descColor=8b949e" width="95%"/>
 
 <br/><br/>
 
-<!-- STREAK -->
-<a href="https://github.com/ArizoOwner">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArizoOwner&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e"/>
-</a>
-
-</div>
-
-<!-- DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-
-<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/ARCHITECTURE-FULL--STACK-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=58a6ff"/>
+  <img src="https://img.shields.io/badge/SECURITY-HARDENED-0d1117?style=for-the-badge&logo=kalilinux&logoColor=3fb950"/>
+  <img src="https://img.shields.io/badge/EFFICIENCY-O(log_n)-0d1117?style=for-the-badge&logo=speedtest&logoColor=d29922"/>
+  <img src="https://img.shields.io/badge/UPTIME-4+_YEARS-0d1117?style=for-the-badge&logo=statuspage&logoColor=34d399"/>
+</p>
 
 <br/>
 
@@ -193,10 +185,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Profile_Views-ArizoOwner-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
 
 <br/><br/>
 
