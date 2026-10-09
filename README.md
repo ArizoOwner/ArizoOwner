@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════
-     HERO HEADER — هماهنگ با پالت سایت amirmsr.ir
+     HERO HEADER — هماهنگ با پالت سایت amirmsr.tech
      رنگ‌ها: #0c1021 (bg) · #34d399 (accent) · #60a5fa (accent-2)
      ═══════════════════════════════════════════════════════════ -->
 
@@ -16,7 +16,7 @@
 
 <!-- BADGES — هماهنگ با رنگ سایت -->
 <p>
-  <a href="https://amirmsr.ir"><img src="https://img.shields.io/badge/amirmsr.ir-0c1021?style=for-the-badge&logo=google-chrome&logoColor=34d399&labelColor=0c1021&color=34d399" alt="Portfolio"/></a>&nbsp;
+  <a href="https://amirmsr.tech"><img src="https://img.shields.io/badge/amirmsr.tech-0c1021?style=for-the-badge&logo=google-chrome&logoColor=34d399&labelColor=0c1021&color=34d399" alt="Portfolio"/></a>&nbsp;
   <a href="https://arizoteam.ir"><img src="https://img.shields.io/badge/ArizoTeam.ir-0c1021?style=for-the-badge&logo=safari&logoColor=60a5fa&labelColor=0c1021&color=60a5fa" alt="ArizoTeam"/></a>&nbsp;
   <a href="https://t.me/ArizoSupport"><img src="https://img.shields.io/badge/Telegram-0c1021?style=for-the-badge&logo=telegram&logoColor=34d399&labelColor=0c1021&color=34d399" alt="Telegram"/></a>&nbsp;
   <a href="https://instagram.com/ArizoCompany"><img src="https://img.shields.io/badge/Instagram-0c1021?style=for-the-badge&logo=instagram&logoColor=60a5fa&labelColor=0c1021&color=60a5fa" alt="Instagram"/></a>&nbsp;
@@ -75,13 +75,13 @@ status:    ONLINE ✅
 
 <br/>
 
-<a href="https://amirmsr.ir"><img src="https://img.shields.io/badge/Portfolio-34d399?style=flat-square&logo=google-chrome&logoColor=0c1021" /></a>&nbsp;
+<a href="https://amirmsr.tech"><img src="https://img.shields.io/badge/Portfolio-34d399?style=flat-square&logo=google-chrome&logoColor=0c1021" /></a>&nbsp;
 <a href="https://arizoteam.ir"><img src="https://img.shields.io/badge/ArizoTeam-60a5fa?style=flat-square&logo=safari&logoColor=0c1021" /></a>
 
 </td>
 <td width="46%" align="center" valign="middle">
 
-<a href="https://amirmsr.ir">
+<a href="https://amirmsr.tech">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0c1021,40:0f1a2e,80:1a3a2a,100:34d399&height=240&section=header&text=System%20Status%20%3A%20Online&fontSize=20&fontColor=34d399&animation=fadeIn&desc=%E2%96%B8%20Full-Stack%20Architecture%20%7C%20Network%20Security&descSize=12&descColor=60a5fa" width="100%"/>
 </a>
 
@@ -245,10 +245,10 @@ status:    ONLINE ✅
 </td>
 <td width="50%" valign="top" align="center">
 
-### 💻 amirmsr.ir
+### 💻 amirmsr.tech
 
-<a href="https://amirmsr.ir">
-  <img src="https://img.shields.io/badge/LIVE-amirmsr.ir-34d399?style=for-the-badge&logo=vercel&logoColor=0c1021"/>
+<a href="https://amirmsr.tech">
+  <img src="https://img.shields.io/badge/LIVE-amirmsr.tech-34d399?style=for-the-badge&logo=vercel&logoColor=0c1021"/>
 </a>
 
 > **Personal Portfolio & Interactive Canvas**
