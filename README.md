@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Amir Hossein Tighi — Web Developer, Security Engineer, UI/UX Designer">
+<img src="assets/hero.svg" width="100%" alt="Amir Hossein — Web Developer, Security Engineer, UI/UX Designer">
 
 <img src="assets/typing.svg" width="100%" alt="whoami → AmirMSR, Full-Stack Developer">
 
