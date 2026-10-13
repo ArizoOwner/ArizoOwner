@@ -5,7 +5,6 @@
 <img src="assets/typing.svg" width="100%" alt="whoami → AmirMSR, Full-Stack Developer">
 
 <p>
-  <a href="https://amirmsr.tech"><img src="https://img.shields.io/badge/amirmsr.tech-0c1021?style=for-the-badge&logo=google-chrome&logoColor=34d399&labelColor=0c1021&color=34d399" alt="Portfolio"/></a>
   <a href="https://arizoteam.ir"><img src="https://img.shields.io/badge/ArizoTeam.ir-0c1021?style=for-the-badge&logo=safari&logoColor=60a5fa&labelColor=0c1021&color=60a5fa" alt="ArizoTeam"/></a>
   <a href="https://t.me/ArizoSupport"><img src="https://img.shields.io/badge/Telegram-0c1021?style=for-the-badge&logo=telegram&logoColor=34d399&labelColor=0c1021&color=34d399" alt="Telegram"/></a>
   <a href="https://instagram.com/ArizoCompany"><img src="https://img.shields.io/badge/Instagram-0c1021?style=for-the-badge&logo=instagram&logoColor=60a5fa&labelColor=0c1021&color=60a5fa" alt="Instagram"/></a>
@@ -23,8 +22,8 @@
 ### `// Identity`
 
 ```yaml
-name:      "Amir Hossein Tighi (AmirMSR)"
-location:  "Tabriz, East Azerbaijan, Iran"
+name:      "Amir Hossein MSR"
+location:  "Iran"
 studio:    "Arizo — Development & Design Studio"
 education: "Software Engineering · FanniHerfeyi Uni"
 status:    ONLINE ✅
@@ -151,7 +150,7 @@ status:    ONLINE ✅
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" align="center">
+<td colspan="2" valign="top" align="center">
 
 ### 🖨️ Bozorgmehr Digital Print
 
@@ -162,19 +161,6 @@ status:    ONLINE ✅
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-</td>
-<td width="50%" valign="top" align="center">
-
-### 💻 amirmsr.tech
-
-<a href="https://amirmsr.tech"><img src="https://img.shields.io/badge/LIVE-amirmsr.tech-34d399?style=for-the-badge&logo=vercel&logoColor=0c1021" alt="amirmsr.tech"/></a>
-
-> **Personal portfolio & interactive canvas**
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Canvas](https://img.shields.io/badge/Canvas-60a5fa?style=flat-square&logo=html5&logoColor=white)
 
 </td>
 </tr>
@@ -206,6 +192,6 @@ status:    ONLINE ✅
 
 **Have a project, a bug or an idea?** Message me on [Telegram](https://t.me/ArizoSupport) or write to [ArizoSupport@gmail.com](mailto:ArizoSupport@gmail.com).
 
-<img src="assets/footer.svg" width="100%" alt="© Arizo · built with care in Tabriz">
+<img src="assets/footer.svg" width="100%" alt="© Arizo · built with care in Iran">
 
 </div>
