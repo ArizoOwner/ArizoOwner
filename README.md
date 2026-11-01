@@ -41,14 +41,14 @@ status:    ONLINE ✅
 </td>
 <td width="45%" align="center" valign="middle">
 
-<a href="https://github.com/ArizoOwner/Arizo_Agent/releases/latest">
-  <img src="https://img.shields.io/github/v/release/ArizoOwner/Arizo_Agent?style=for-the-badge&label=Arizo%20Translate&color=34d399&labelColor=0c1021&logo=windows11&logoColor=60a5fa" alt="Latest Arizo Translate release"/>
+<a href="https://arizoteam.ir">
+  <img src="https://img.shields.io/badge/Arizo--Agent-download-34d399?style=for-the-badge&labelColor=0c1021&logo=windows11&logoColor=60a5fa" alt="Download Arizo-Agent"/>
 </a>
 
 <br/><br/>
 
-> **Now shipping:** *Arizo Translate* — a Dynamic&nbsp;Island translator for Windows.
-> Select text, press a shortcut, get the translation in place.
+> **Now shipping:** *Arizo-Agent* — a Dynamic&nbsp;Island for Windows,
+> with a little robot named Ari. Get it at [arizoteam.ir](https://arizoteam.ir).
 
 <br/>
 
@@ -85,22 +85,21 @@ status:    ONLINE ✅
 
 <div align="center"><img src="assets/sec-projects.svg" width="100%" alt="projects"></div>
 
+<div align="center"><a href="https://arizoteam.ir"><img src="assets/profile-card.svg" width="100%" alt="Arizo-Agent — a Dynamic Island for Windows with a little robot named Ari"></a></div>
+
 <table width="100%">
 <tr>
 <td width="50%" valign="top" align="center">
 
-### 🏝️ Arizo Translate
+### 🏝️ Arizo-Agent
 
-<a href="https://github.com/ArizoOwner/Arizo_Agent">
-  <img src="https://img.shields.io/github/stars/ArizoOwner/Arizo_Agent?style=for-the-badge&logo=github&color=34d399&labelColor=0c1021" alt="Stars"/>
-</a>
+<a href="https://arizoteam.ir"><img src="https://img.shields.io/badge/DOWNLOAD-arizoteam.ir-34d399?style=for-the-badge&logo=windows11&logoColor=0c1021" alt="Download at arizoteam.ir"/></a>
 
-> **A Dynamic Island translator for Windows 10/11**<br/>
-> Translate anything, anywhere, in place. Fast and AI engines, Persian ⇄ English first.
+> **A Dynamic Island for Windows 10/11**<br/>
+> Translate in place, Spotify, live football and crypto, your phone — with Ari the robot.
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri_2-FFC131?style=flat-square&logo=tauri&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+[![Intro](https://img.shields.io/badge/intro-Arizo__Agent-60a5fa?style=flat-square&logo=github&labelColor=0c1021)](https://github.com/ArizoOwner/Arizo_Agent)
+![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?style=flat-square&logo=windows&logoColor=white)
 
 </td>
 <td width="50%" valign="top" align="center">

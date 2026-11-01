@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" width="900" height="260" role="img" aria-label="Arizo-Agent: a Dynamic Island for Windows with a little robot named Ari">
+
+<defs>
+  
+  <linearGradient id="pb" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fbfbfd"/><stop offset="1" stop-color="#c4c8d3"/></linearGradient>
+  <radialGradient id="pe" cx="0.5" cy="0.5" r="0.62"><stop offset="0.62" stop-color="#8e94a8" stop-opacity="0"/><stop offset="1" stop-color="#8e94a8" stop-opacity="0.5"/></radialGradient>
+  <radialGradient id="ph" cx="0.36" cy="0.3" r="0.45"><stop offset="0" stop-color="#fff" stop-opacity="0.85"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+  <linearGradient id="pg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1F2333"/><stop offset="1" stop-color="#0A0C14"/></linearGradient>
+  <filter id="eyeglow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <linearGradient id="pbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0c1021"/><stop offset="1" stop-color="#101a2c"/></linearGradient>
+  <radialGradient id="pglow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#34d399" stop-opacity=".35"/><stop offset="1" stop-color="#34d399" stop-opacity="0"/></radialGradient>
+  <linearGradient id="pline" x1="0" x2="1"><stop offset="0" stop-color="#34d399"/><stop offset="1" stop-color="#60a5fa"/></linearGradient>
+  <clipPath id="pc"><rect width="900" height="260" rx="22"/></clipPath>
+</defs>
+<style>
+  text{font-family:'Segoe UI','Inter',system-ui,-apple-system,Arial,sans-serif}
+  .float{animation:float 5s ease-in-out infinite}
+  @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
+  .breathe{transform-box:fill-box;transform-origin:50% 100%;animation:breathe 4s ease-in-out infinite}
+  @keyframes breathe{0%,100%{transform:scale(1,1)}50%{transform:scale(1.025,.972)}}
+  .eye{transform-box:fill-box;transform-origin:center;animation:blink 5s infinite}
+  @keyframes blink{0%,91%,100%{transform:scaleY(1)}94%{transform:scaleY(.08)}}
+  .look{animation:look 9s ease-in-out infinite}
+  @keyframes look{0%,100%{transform:translate(0,0)}15%{transform:translate(-14px,3px)}35%{transform:translate(12px,-3px)}55%{transform:translate(0,6px)}75%{transform:translate(8px,2px)}}
+  .spark{transform-box:fill-box;transform-origin:center;animation:spark 3s ease-in-out infinite}
+  @keyframes spark{0%,100%{transform:scale(.2) rotate(0);opacity:0}50%{transform:scale(1) rotate(45deg);opacity:1}}
+  .drift{animation:drift 7s ease-in-out infinite}
+  @keyframes drift{0%,100%{transform:translate(0,0)}50%{transform:translate(0,-14px)}}
+  .twinkle{animation:twinkle 4s ease-in-out infinite}
+  @keyframes twinkle{0%,100%{opacity:.15}50%{opacity:.9}}
+  .pair{transform-box:fill-box;transform-origin:center;animation:pair 9s infinite both;opacity:0}
+  @keyframes pair{0%{opacity:0;transform:scale(.7) translateY(10px)}4%{opacity:1;transform:scale(1.04) translateY(0)}6%{transform:scale(1)}29%{opacity:1;transform:scale(1)}33%{opacity:0;transform:scale(.9) translateY(-8px)}100%{opacity:0}}
+
+  .pair-in{animation:pin .6s ease-out both}
+  @keyframes pin{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+  .scan{animation:scan 5s linear infinite}
+  @keyframes scan{from{transform:translateX(-220px)}to{transform:translateX(1120px)}}
+</style>
+<g clip-path="url(#pc)">
+  <rect width="900" height="260" fill="url(#pbg)"/>
+  <rect class="scan" x="0" y="0" width="160" height="260" fill="#ffffff" opacity=".03" transform="skewX(-18)"/>
+  <circle cx="150" cy="135" r="120" fill="url(#pglow)"><animate attributeName="r" values="110;128;110" dur="4s" repeatCount="indefinite"/></circle>
+  <g transform="translate(150 140) scale(.82)"><g class="drift">
+  <g class="breathe">
+    <path d="M120.6 0.0L120.5 18.4L120.0 27.6L119.3 35.0L118.2 41.3L116.8 46.9L115.2 52.0L113.2 56.6L110.9 60.9L108.2 64.8L105.3 68.3L102.0 71.6L98.4 74.6L94.4 77.4L90.1 79.9L85.4 82.1L80.2 84.1L74.7 85.8L68.6 87.4L61.9 88.6L54.5 89.7L46.1 90.5L36.4 91.1L24.3 91.4L0.0 91.5L-24.3 91.4L-36.4 91.1L-46.1 90.5L-54.5 89.7L-61.9 88.6L-68.6 87.4L-74.7 85.8L-80.2 84.1L-85.4 82.1L-90.1 79.9L-94.4 77.4L-98.4 74.6L-102.0 71.6L-105.3 68.3L-108.2 64.8L-110.9 60.9L-113.2 56.6L-115.2 52.0L-116.8 46.9L-118.2 41.3L-119.3 35.0L-120.0 27.6L-120.5 18.4L-120.6 0.0L-120.5 -18.4L-120.0 -27.6L-119.3 -35.0L-118.2 -41.3L-116.8 -46.9L-115.2 -52.0L-113.2 -56.6L-110.9 -60.9L-108.2 -64.8L-105.3 -68.3L-102.0 -71.6L-98.4 -74.6L-94.4 -77.4L-90.1 -79.9L-85.4 -82.1L-80.2 -84.1L-74.7 -85.8L-68.6 -87.4L-61.9 -88.6L-54.5 -89.7L-46.1 -90.5L-36.4 -91.1L-24.3 -91.4L-0.0 -91.5L24.3 -91.4L36.4 -91.1L46.1 -90.5L54.5 -89.7L61.9 -88.6L68.6 -87.4L74.7 -85.8L80.2 -84.1L85.4 -82.1L90.1 -79.9L94.4 -77.4L98.4 -74.6L102.0 -71.6L105.3 -68.3L108.2 -64.8L110.9 -60.9L113.2 -56.6L115.2 -52.0L116.8 -46.9L118.2 -41.3L119.3 -35.0L120.0 -27.6L120.5 -18.4Z" fill="url(#pb)"/>
+    <path d="M120.6 0.0L120.5 18.4L120.0 27.6L119.3 35.0L118.2 41.3L116.8 46.9L115.2 52.0L113.2 56.6L110.9 60.9L108.2 64.8L105.3 68.3L102.0 71.6L98.4 74.6L94.4 77.4L90.1 79.9L85.4 82.1L80.2 84.1L74.7 85.8L68.6 87.4L61.9 88.6L54.5 89.7L46.1 90.5L36.4 91.1L24.3 91.4L0.0 91.5L-24.3 91.4L-36.4 91.1L-46.1 90.5L-54.5 89.7L-61.9 88.6L-68.6 87.4L-74.7 85.8L-80.2 84.1L-85.4 82.1L-90.1 79.9L-94.4 77.4L-98.4 74.6L-102.0 71.6L-105.3 68.3L-108.2 64.8L-110.9 60.9L-113.2 56.6L-115.2 52.0L-116.8 46.9L-118.2 41.3L-119.3 35.0L-120.0 27.6L-120.5 18.4L-120.6 0.0L-120.5 -18.4L-120.0 -27.6L-119.3 -35.0L-118.2 -41.3L-116.8 -46.9L-115.2 -52.0L-113.2 -56.6L-110.9 -60.9L-108.2 -64.8L-105.3 -68.3L-102.0 -71.6L-98.4 -74.6L-94.4 -77.4L-90.1 -79.9L-85.4 -82.1L-80.2 -84.1L-74.7 -85.8L-68.6 -87.4L-61.9 -88.6L-54.5 -89.7L-46.1 -90.5L-36.4 -91.1L-24.3 -91.4L-0.0 -91.5L24.3 -91.4L36.4 -91.1L46.1 -90.5L54.5 -89.7L61.9 -88.6L68.6 -87.4L74.7 -85.8L80.2 -84.1L85.4 -82.1L90.1 -79.9L94.4 -77.4L98.4 -74.6L102.0 -71.6L105.3 -68.3L108.2 -64.8L110.9 -60.9L113.2 -56.6L115.2 -52.0L116.8 -46.9L118.2 -41.3L119.3 -35.0L120.0 -27.6L120.5 -18.4Z" fill="url(#pe)"/>
+    <path d="M120.6 0.0L120.5 18.4L120.0 27.6L119.3 35.0L118.2 41.3L116.8 46.9L115.2 52.0L113.2 56.6L110.9 60.9L108.2 64.8L105.3 68.3L102.0 71.6L98.4 74.6L94.4 77.4L90.1 79.9L85.4 82.1L80.2 84.1L74.7 85.8L68.6 87.4L61.9 88.6L54.5 89.7L46.1 90.5L36.4 91.1L24.3 91.4L0.0 91.5L-24.3 91.4L-36.4 91.1L-46.1 90.5L-54.5 89.7L-61.9 88.6L-68.6 87.4L-74.7 85.8L-80.2 84.1L-85.4 82.1L-90.1 79.9L-94.4 77.4L-98.4 74.6L-102.0 71.6L-105.3 68.3L-108.2 64.8L-110.9 60.9L-113.2 56.6L-115.2 52.0L-116.8 46.9L-118.2 41.3L-119.3 35.0L-120.0 27.6L-120.5 18.4L-120.6 0.0L-120.5 -18.4L-120.0 -27.6L-119.3 -35.0L-118.2 -41.3L-116.8 -46.9L-115.2 -52.0L-113.2 -56.6L-110.9 -60.9L-108.2 -64.8L-105.3 -68.3L-102.0 -71.6L-98.4 -74.6L-94.4 -77.4L-90.1 -79.9L-85.4 -82.1L-80.2 -84.1L-74.7 -85.8L-68.6 -87.4L-61.9 -88.6L-54.5 -89.7L-46.1 -90.5L-36.4 -91.1L-24.3 -91.4L-0.0 -91.5L24.3 -91.4L36.4 -91.1L46.1 -90.5L54.5 -89.7L61.9 -88.6L68.6 -87.4L74.7 -85.8L80.2 -84.1L85.4 -82.1L90.1 -79.9L94.4 -77.4L98.4 -74.6L102.0 -71.6L105.3 -68.3L108.2 -64.8L110.9 -60.9L113.2 -56.6L115.2 -52.0L116.8 -46.9L118.2 -41.3L119.3 -35.0L120.0 -27.6L120.5 -18.4Z" fill="url(#ph)"/>
+    
+    <rect x="-95.11999999999999" y="-45.2" width="190.23999999999998" height="90.4" rx="45.2" fill="#DFE3EC"/>
+    <rect x="-91.52" y="-41.6" width="183.04" height="83.2" rx="41.6" fill="url(#pg)"/>
+    <path d="M-62.4 -32.6 H-5.2" stroke="#fff" stroke-opacity=".12" stroke-width="5" stroke-linecap="round"/>
+    <g class="look" filter="url(#eyeglow)"><g class="eye"><rect x="-45.76" y="-19.76" width="20.8" height="39.52" rx="10.4" fill="#5EC8FF"/></g><g class="eye"><rect x="24.96" y="-19.76" width="20.8" height="39.52" rx="10.4" fill="#5EC8FF"/></g></g>
+    
+  </g></g></g>
+  <g transform="translate(60 60) scale(0.8)"><path class="spark" style="animation-delay:0s" d="M0-10 L2.6-2.6 10 0 2.6 2.6 0 10 -2.6 2.6 -10 0 -2.6-2.6Z" fill="#fff"/></g><g transform="translate(250 52) scale(0.6)"><path class="spark" style="animation-delay:1.2s" d="M0-10 L2.6-2.6 10 0 2.6 2.6 0 10 -2.6 2.6 -10 0 -2.6-2.6Z" fill="#fff"/></g><g transform="translate(240 220) scale(0.7)"><path class="spark" style="animation-delay:2s" d="M0-10 L2.6-2.6 10 0 2.6 2.6 0 10 -2.6 2.6 -10 0 -2.6-2.6Z" fill="#fff"/></g>
+  <text x="300" y="70" font-size="34" font-weight="800" fill="#e8ecf4">Arizo-Agent</text>
+  <rect x="300" y="84" width="150" height="3" rx="1.5" fill="url(#pline)"><animate attributeName="width" values="0;150;150" keyTimes="0;.3;1" dur="6s" repeatCount="indefinite"/></rect>
+  <text x="300" y="118" font-size="16" fill="#8b95a8">A Dynamic Island for Windows — with a little robot named Ari.</text>
+  <g class="pair-in" style="animation-delay:0s"><rect x="300" y="150" width="178" height="30" rx="15" fill="#ffffff0d" stroke="#34d39940"/>
+  <text x="316" y="170" font-size="14" fill="#e8ecf4">🏝️ Dynamic Island</text></g><g class="pair-in" style="animation-delay:0.15s"><rect x="490" y="150" width="178" height="30" rx="15" fill="#ffffff0d" stroke="#34d39940"/>
+  <text x="506" y="170" font-size="14" fill="#e8ecf4">⚡ Translate in place</text></g><g class="pair-in" style="animation-delay:0.3s"><rect x="680" y="150" width="178" height="30" rx="15" fill="#ffffff0d" stroke="#34d39940"/>
+  <text x="696" y="170" font-size="14" fill="#e8ecf4">🎵 Spotify</text></g><g class="pair-in" style="animation-delay:0.44999999999999996s"><rect x="300" y="190" width="178" height="30" rx="15" fill="#ffffff0d" stroke="#34d39940"/>
+  <text x="316" y="210" font-size="14" fill="#e8ecf4">⚽ Live football</text></g><g class="pair-in" style="animation-delay:0.6s"><rect x="490" y="190" width="178" height="30" rx="15" fill="#ffffff0d" stroke="#34d39940"/>
+  <text x="506" y="210" font-size="14" fill="#e8ecf4">₿ Live crypto</text></g><g class="pair-in" style="animation-delay:0.75s"><rect x="680" y="190" width="178" height="30" rx="15" fill="#ffffff0d" stroke="#34d39940"/>
+  <text x="696" y="210" font-size="14" fill="#e8ecf4">📱 Your phone</text></g>
+</g>
+<rect width="900" height="260" rx="22" fill="none" stroke="#34d399" stroke-opacity=".28"/>
+</svg>
