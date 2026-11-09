@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 230" width="1000" height="230" role="img" aria-label="GitHub activity: 1072 contributions in the last year, 5 public repositories, 5 stars">
+<defs><linearGradient id="line" x1="0" x2="1"><stop offset="0" stop-color="#34d399"/><stop offset="1" stop-color="#60a5fa"/></linearGradient>
+<linearGradient id="bar" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#34d399" stop-opacity=".35"/><stop offset="1" stop-color="#34d399"/></linearGradient></defs>
+<style>text{font-family:'Segoe UI','Inter',system-ui,-apple-system,Arial,sans-serif} .n{font-weight:800;fill:#e8ecf4} .l{fill:#8b95a8;font-size:13px;letter-spacing:.04em}
+.rise{animation:rise 1.2s cubic-bezier(.2,.8,.2,1)} @keyframes rise{from{opacity:.4;transform:translateY(8px)}to{opacity:1;transform:none}}
+.grow{transform-box:fill-box;transform-origin:50% 100%;animation:grow 1.4s cubic-bezier(.2,.8,.2,1)} @keyframes grow{from{transform:scaleY(.15)}to{transform:scaleY(1)}}</style>
+<rect x=".5" y=".5" width="999" height="229" rx="16" fill="#0c1021" stroke="#34d399" stroke-opacity=".22"/>
+<g class="rise" style="animation-delay:0.00s"><text class="n" x="40" y="70" font-size="34">1,072</text><text class="l" x="40" y="94" font-size="11">CONTRIBUTIONS</text></g>
+<g class="rise" style="animation-delay:0.12s"><text class="n" x="190" y="70" font-size="34">33d</text><text class="l" x="190" y="94" font-size="11">BEST STREAK</text></g>
+<g class="rise" style="animation-delay:0.24s"><text class="n" x="320" y="70" font-size="34">5</text><text class="l" x="320" y="94" font-size="11">PUBLIC REPOS</text></g>
+<g class="rise" style="animation-delay:0.36s"><text class="n" x="450" y="70" font-size="34">5</text><text class="l" x="450" y="94" font-size="11">STARS</text></g>
+<rect class="grow" style="animation-delay:0.300s" x="40.0" y="198" width="15.0" height="2" rx="3" fill="url(#bar)"/>
+<rect class="grow" style="animation-delay:0.325s" x="60.0" y="198" width="15.0" height="2" rx="3" fill="url(#bar)"/>
+<rect class="grow" style="animation-delay:0.350s" x="80.0" y="198" width="15.0" height="2" rx="3" fill="url(#bar)"/>
+<rect class="grow" style="animation-delay:0.375s" x="100.0" y="198" width="15.0" height="2" rx="3" fill="url(#bar)"/>
+<rect class="grow" style="animation-delay:0.400s" x="120.0" y="198" width="15.0" height="2" rx="3" fill="url(#bar)"/>
+<rect class="grow" style="animation-delay:0.425s" x="140.0" y="198" width="15.0" height="2" rx="3" fill="url(#bar)"/>
+<rect class="grow" style="animation-delay:0.450s" x="160.0" y="198" width="15.0" height="2" rx="3" fill="url(#bar)"/>
+<rect class="grow" style="animation-delay:0.475s" x="180.0" y="198" width="15.0" height="2" rx="3" fill="url(#bar)"/>
+<rect class="grow" style="animation-delay:0.500s" x="200.0" y="198" width="15.0" height="2" rx="3" fill="url(#bar)"/>
+<rect class="grow" style="animation-delay:0.525s" x="220.0" y="198" width="15.0" height="2" rx="3" fill="url(#bar)"/>
+<rect class="grow" style="animation-delay:0.550s" x="240.0" y="186" width="15.0" height="14" rx="3" fill="url(#bar)"/>
+<rect class="grow" style="animation-delay:0.575s" x="260.0" y="197" width="15.0" height="3" rx="3" fill="url(#bar)"/>
+<rect class="grow" style="animation-delay:0.600s" x="280.0" y="198" width="15.0" height="2" rx="3" fill="url(#bar)"/>
+<rect class="grow" style="animation-delay:0.625s" x="300.0" y="198" width="15.0" height="2" rx="3" fill="url(#bar)"/>
+<rect class="grow" style="animation-delay:0.650s" x="320.0" y="194" width="15.0" height="6" rx="3" fill="url(#bar)"/>
+<rect class="grow" style="animation-delay:0.675s" x="340.0" y="198" width="15.0" height="2" rx="3" fill="url(#bar)"/>
+<rect class="grow" style="animation-delay:0.700s" x="360.0" y="198" width="15.0" height="2" rx="3" fill="url(#bar)"/>
+<rect class="grow" style="animation-delay:0.725s" x="380.0" y="198" width="15.0" height="2" rx="3" fill="url(#bar)"/>
+<rect class="grow" style="animation-delay:0.750s" x="400.0" y="182" width="15.0" height="18" rx="3" fill="url(#bar)"/>
+<rect class="grow" style="animation-delay:0.775s" x="420.0" y="128" width="15.0" height="72" rx="3" fill="url(#bar)"/>
+<rect class="grow" style="animation-delay:0.800s" x="440.0" y="179" width="15.0" height="21" rx="3" fill="url(#bar)"/>
+<rect class="grow" style="animation-delay:0.825s" x="460.0" y="167" width="15.0" height="33" rx="3" fill="url(#bar)"/>
+<rect class="grow" style="animation-delay:0.850s" x="480.0" y="198" width="15.0" height="2" rx="3" fill="url(#bar)"/>
+<rect class="grow" style="animation-delay:0.875s" x="500.0" y="187" width="15.0" height="13" rx="3" fill="url(#bar)"/>
+<rect class="grow" style="animation-delay:0.900s" x="520.0" y="198" width="15.0" height="2" rx="3" fill="url(#bar)"/>
+<rect class="grow" style="animation-delay:0.925s" x="540.0" y="198" width="15.0" height="2" rx="3" fill="url(#bar)"/>
+<text class="l" x="40" y="220" font-size="11">LAST 26 WEEKS · ONE YEAR OF CONTRIBUTIONS ABOVE</text>
+<text class="l" x="620" y="36" font-size="11">TOP LANGUAGES · PUBLIC REPOS</text>
+<clipPath id="lc"><rect x="620" y="50" width="340" height="12" rx="6"/></clipPath><g clip-path="url(#lc)">
+<rect x="620.0" y="50" width="311.2" height="12" fill="#f1e05a"/>
+<rect x="930.7" y="50" width="12.6" height="12" fill="#e34c26"/>
+<rect x="942.8" y="50" width="7.4" height="12" fill="#663399"/>
+<rect x="949.7" y="50" width="6.9" height="12" fill="#3572A5"/>
+<rect x="956.0" y="50" width="4.5" height="12" fill="#012456"/>
+</g>
+<g class="rise" style="animation-delay:0.40s"><circle cx="626" cy="85" r="6" fill="#f1e05a"/><text x="642" y="90" font-size="15" fill="#e8ecf4">JavaScript</text><text x="960" y="90" font-size="14" text-anchor="end" fill="#8b95a8" font-family="'Fira Code','Cascadia Code',Consolas,'SF Mono',monospace">91.4%</text></g>
+<g class="rise" style="animation-delay:0.50s"><circle cx="626" cy="113" r="6" fill="#e34c26"/><text x="642" y="118" font-size="15" fill="#e8ecf4">HTML</text><text x="960" y="118" font-size="14" text-anchor="end" fill="#8b95a8" font-family="'Fira Code','Cascadia Code',Consolas,'SF Mono',monospace">3.5%</text></g>
+<g class="rise" style="animation-delay:0.60s"><circle cx="626" cy="141" r="6" fill="#663399"/><text x="642" y="146" font-size="15" fill="#e8ecf4">CSS</text><text x="960" y="146" font-size="14" text-anchor="end" fill="#8b95a8" font-family="'Fira Code','Cascadia Code',Consolas,'SF Mono',monospace">2.0%</text></g>
+<g class="rise" style="animation-delay:0.70s"><circle cx="626" cy="169" r="6" fill="#3572A5"/><text x="642" y="174" font-size="15" fill="#e8ecf4">Python</text><text x="960" y="174" font-size="14" text-anchor="end" fill="#8b95a8" font-family="'Fira Code','Cascadia Code',Consolas,'SF Mono',monospace">1.9%</text></g>
+<g class="rise" style="animation-delay:0.80s"><circle cx="626" cy="197" r="6" fill="#012456"/><text x="642" y="202" font-size="15" fill="#e8ecf4">PowerShell</text><text x="960" y="202" font-size="14" text-anchor="end" fill="#8b95a8" font-family="'Fira Code','Cascadia Code',Consolas,'SF Mono',monospace">1.2%</text></g>
+<rect x="40" y="114" width="520" height="1" fill="url(#line)" opacity=".35"/>
+</svg>

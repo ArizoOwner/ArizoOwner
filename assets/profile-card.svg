@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" width="900" height="260" role="img" aria-label="Arizo-Agent: a Dynamic Island for Windows with a little robot named Ari">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" role="img" aria-label="Arizo-Agent: a Dynamic Island for Windows with a little robot named Ari">
 
 <defs>
   
@@ -10,7 +10,7 @@
   <linearGradient id="pbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0c1021"/><stop offset="1" stop-color="#101a2c"/></linearGradient>
   <radialGradient id="pglow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#34d399" stop-opacity=".35"/><stop offset="1" stop-color="#34d399" stop-opacity="0"/></radialGradient>
   <linearGradient id="pline" x1="0" x2="1"><stop offset="0" stop-color="#34d399"/><stop offset="1" stop-color="#60a5fa"/></linearGradient>
-  <clipPath id="pc"><rect width="900" height="260" rx="22"/></clipPath>
+  <clipPath id="pc"><rect width="900" height="300" rx="22"/></clipPath>
 </defs>
 <style>
   text{font-family:'Segoe UI','Inter',system-ui,-apple-system,Arial,sans-serif}
@@ -31,16 +31,16 @@
   .pair{transform-box:fill-box;transform-origin:center;animation:pair 9s infinite both;opacity:0}
   @keyframes pair{0%{opacity:0;transform:scale(.7) translateY(10px)}4%{opacity:1;transform:scale(1.04) translateY(0)}6%{transform:scale(1)}29%{opacity:1;transform:scale(1)}33%{opacity:0;transform:scale(.9) translateY(-8px)}100%{opacity:0}}
 
-  .pair-in{animation:pin .6s ease-out both}
-  @keyframes pin{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+  .pair-in{animation:pin .6s ease-out}
+  @keyframes pin{from{opacity:.35;transform:translateY(6px)}to{opacity:1;transform:none}}
   .scan{animation:scan 5s linear infinite}
   @keyframes scan{from{transform:translateX(-220px)}to{transform:translateX(1120px)}}
 </style>
 <g clip-path="url(#pc)">
-  <rect width="900" height="260" fill="url(#pbg)"/>
-  <rect class="scan" x="0" y="0" width="160" height="260" fill="#ffffff" opacity=".03" transform="skewX(-18)"/>
-  <circle cx="150" cy="135" r="120" fill="url(#pglow)"><animate attributeName="r" values="110;128;110" dur="4s" repeatCount="indefinite"/></circle>
-  <g transform="translate(150 140) scale(.82)"><g class="drift">
+  <rect width="900" height="300" fill="url(#pbg)"/>
+  <rect class="scan" x="0" y="0" width="160" height="300" fill="#ffffff" opacity=".03" transform="skewX(-18)"/>
+  <circle cx="150" cy="150" r="120" fill="url(#pglow)"><animate attributeName="r" values="110;128;110" dur="4s" repeatCount="indefinite"/></circle>
+  <g transform="translate(150 155) scale(.82)"><g class="drift">
   <g class="breathe">
     <path d="M120.6 0.0L120.5 18.4L120.0 27.6L119.3 35.0L118.2 41.3L116.8 46.9L115.2 52.0L113.2 56.6L110.9 60.9L108.2 64.8L105.3 68.3L102.0 71.6L98.4 74.6L94.4 77.4L90.1 79.9L85.4 82.1L80.2 84.1L74.7 85.8L68.6 87.4L61.9 88.6L54.5 89.7L46.1 90.5L36.4 91.1L24.3 91.4L0.0 91.5L-24.3 91.4L-36.4 91.1L-46.1 90.5L-54.5 89.7L-61.9 88.6L-68.6 87.4L-74.7 85.8L-80.2 84.1L-85.4 82.1L-90.1 79.9L-94.4 77.4L-98.4 74.6L-102.0 71.6L-105.3 68.3L-108.2 64.8L-110.9 60.9L-113.2 56.6L-115.2 52.0L-116.8 46.9L-118.2 41.3L-119.3 35.0L-120.0 27.6L-120.5 18.4L-120.6 0.0L-120.5 -18.4L-120.0 -27.6L-119.3 -35.0L-118.2 -41.3L-116.8 -46.9L-115.2 -52.0L-113.2 -56.6L-110.9 -60.9L-108.2 -64.8L-105.3 -68.3L-102.0 -71.6L-98.4 -74.6L-94.4 -77.4L-90.1 -79.9L-85.4 -82.1L-80.2 -84.1L-74.7 -85.8L-68.6 -87.4L-61.9 -88.6L-54.5 -89.7L-46.1 -90.5L-36.4 -91.1L-24.3 -91.4L-0.0 -91.5L24.3 -91.4L36.4 -91.1L46.1 -90.5L54.5 -89.7L61.9 -88.6L68.6 -87.4L74.7 -85.8L80.2 -84.1L85.4 -82.1L90.1 -79.9L94.4 -77.4L98.4 -74.6L102.0 -71.6L105.3 -68.3L108.2 -64.8L110.9 -60.9L113.2 -56.6L115.2 -52.0L116.8 -46.9L118.2 -41.3L119.3 -35.0L120.0 -27.6L120.5 -18.4Z" fill="url(#pb)"/>
     <path d="M120.6 0.0L120.5 18.4L120.0 27.6L119.3 35.0L118.2 41.3L116.8 46.9L115.2 52.0L113.2 56.6L110.9 60.9L108.2 64.8L105.3 68.3L102.0 71.6L98.4 74.6L94.4 77.4L90.1 79.9L85.4 82.1L80.2 84.1L74.7 85.8L68.6 87.4L61.9 88.6L54.5 89.7L46.1 90.5L36.4 91.1L24.3 91.4L0.0 91.5L-24.3 91.4L-36.4 91.1L-46.1 90.5L-54.5 89.7L-61.9 88.6L-68.6 87.4L-74.7 85.8L-80.2 84.1L-85.4 82.1L-90.1 79.9L-94.4 77.4L-98.4 74.6L-102.0 71.6L-105.3 68.3L-108.2 64.8L-110.9 60.9L-113.2 56.6L-115.2 52.0L-116.8 46.9L-118.2 41.3L-119.3 35.0L-120.0 27.6L-120.5 18.4L-120.6 0.0L-120.5 -18.4L-120.0 -27.6L-119.3 -35.0L-118.2 -41.3L-116.8 -46.9L-115.2 -52.0L-113.2 -56.6L-110.9 -60.9L-108.2 -64.8L-105.3 -68.3L-102.0 -71.6L-98.4 -74.6L-94.4 -77.4L-90.1 -79.9L-85.4 -82.1L-80.2 -84.1L-74.7 -85.8L-68.6 -87.4L-61.9 -88.6L-54.5 -89.7L-46.1 -90.5L-36.4 -91.1L-24.3 -91.4L-0.0 -91.5L24.3 -91.4L36.4 -91.1L46.1 -90.5L54.5 -89.7L61.9 -88.6L68.6 -87.4L74.7 -85.8L80.2 -84.1L85.4 -82.1L90.1 -79.9L94.4 -77.4L98.4 -74.6L102.0 -71.6L105.3 -68.3L108.2 -64.8L110.9 -60.9L113.2 -56.6L115.2 -52.0L116.8 -46.9L118.2 -41.3L119.3 -35.0L120.0 -27.6L120.5 -18.4Z" fill="url(#pe)"/>
@@ -52,17 +52,21 @@
     <g class="look" filter="url(#eyeglow)"><g class="eye"><rect x="-45.76" y="-19.76" width="20.8" height="39.52" rx="10.4" fill="#5EC8FF"/></g><g class="eye"><rect x="24.96" y="-19.76" width="20.8" height="39.52" rx="10.4" fill="#5EC8FF"/></g></g>
     
   </g></g></g>
-  <g transform="translate(60 60) scale(0.8)"><path class="spark" style="animation-delay:0s" d="M0-10 L2.6-2.6 10 0 2.6 2.6 0 10 -2.6 2.6 -10 0 -2.6-2.6Z" fill="#fff"/></g><g transform="translate(250 52) scale(0.6)"><path class="spark" style="animation-delay:1.2s" d="M0-10 L2.6-2.6 10 0 2.6 2.6 0 10 -2.6 2.6 -10 0 -2.6-2.6Z" fill="#fff"/></g><g transform="translate(240 220) scale(0.7)"><path class="spark" style="animation-delay:2s" d="M0-10 L2.6-2.6 10 0 2.6 2.6 0 10 -2.6 2.6 -10 0 -2.6-2.6Z" fill="#fff"/></g>
+  <g transform="translate(60 60) scale(0.8)"><path class="spark" style="animation-delay:0s" d="M0-10 L2.6-2.6 10 0 2.6 2.6 0 10 -2.6 2.6 -10 0 -2.6-2.6Z" fill="#fff"/></g><g transform="translate(250 52) scale(0.6)"><path class="spark" style="animation-delay:1.2s" d="M0-10 L2.6-2.6 10 0 2.6 2.6 0 10 -2.6 2.6 -10 0 -2.6-2.6Z" fill="#fff"/></g><g transform="translate(240 250) scale(0.7)"><path class="spark" style="animation-delay:2s" d="M0-10 L2.6-2.6 10 0 2.6 2.6 0 10 -2.6 2.6 -10 0 -2.6-2.6Z" fill="#fff"/></g>
   <text x="300" y="70" font-size="34" font-weight="800" fill="#e8ecf4">Arizo-Agent</text>
   <rect x="300" y="84" width="150" height="3" rx="1.5" fill="url(#pline)"><animate attributeName="width" values="0;150;150" keyTimes="0;.3;1" dur="6s" repeatCount="indefinite"/></rect>
   <text x="300" y="118" font-size="16" fill="#8b95a8">A Dynamic Island for Windows — with a little robot named Ari.</text>
-  <g class="pair-in" style="animation-delay:0s"><rect x="300" y="150" width="178" height="30" rx="15" fill="#ffffff0d" stroke="#34d39940"/>
+  <g transform="translate(760 46)"><rect width="98" height="26" rx="13" fill="#34d3991f" stroke="#34d39966"/><circle cx="16" cy="13" r="4" fill="#34d399"><animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/></circle><text x="28" y="18" font-size="13" font-weight="700" fill="#34d399">v1.3.0</text></g>
+  <g class="pair-in" style="animation-delay:0.00s"><rect x="300" y="150" width="178" height="30" rx="15" fill="#ffffff0d" stroke="#34d39940"/>
   <text x="316" y="170" font-size="14" fill="#e8ecf4">🏝️ Dynamic Island</text></g><g class="pair-in" style="animation-delay:0.15s"><rect x="490" y="150" width="178" height="30" rx="15" fill="#ffffff0d" stroke="#34d39940"/>
-  <text x="506" y="170" font-size="14" fill="#e8ecf4">⚡ Translate in place</text></g><g class="pair-in" style="animation-delay:0.3s"><rect x="680" y="150" width="178" height="30" rx="15" fill="#ffffff0d" stroke="#34d39940"/>
-  <text x="696" y="170" font-size="14" fill="#e8ecf4">🎵 Spotify</text></g><g class="pair-in" style="animation-delay:0.44999999999999996s"><rect x="300" y="190" width="178" height="30" rx="15" fill="#ffffff0d" stroke="#34d39940"/>
-  <text x="316" y="210" font-size="14" fill="#e8ecf4">⚽ Live football</text></g><g class="pair-in" style="animation-delay:0.6s"><rect x="490" y="190" width="178" height="30" rx="15" fill="#ffffff0d" stroke="#34d39940"/>
+  <text x="506" y="170" font-size="14" fill="#e8ecf4">⚡ Translate in place</text></g><g class="pair-in" style="animation-delay:0.30s"><rect x="680" y="150" width="178" height="30" rx="15" fill="#ffffff0d" stroke="#34d39940"/>
+  <text x="696" y="170" font-size="14" fill="#e8ecf4">🎵 Spotify</text></g><g class="pair-in" style="animation-delay:0.45s"><rect x="300" y="190" width="178" height="30" rx="15" fill="#ffffff0d" stroke="#34d39940"/>
+  <text x="316" y="210" font-size="14" fill="#e8ecf4">⚽ Live football</text></g><g class="pair-in" style="animation-delay:0.60s"><rect x="490" y="190" width="178" height="30" rx="15" fill="#ffffff0d" stroke="#34d39940"/>
   <text x="506" y="210" font-size="14" fill="#e8ecf4">₿ Live crypto</text></g><g class="pair-in" style="animation-delay:0.75s"><rect x="680" y="190" width="178" height="30" rx="15" fill="#ffffff0d" stroke="#34d39940"/>
-  <text x="696" y="210" font-size="14" fill="#e8ecf4">📱 Your phone</text></g>
+  <text x="696" y="210" font-size="14" fill="#e8ecf4">🌉 Phone &amp; 2nd PC</text></g><g class="pair-in" style="animation-delay:0.90s"><rect x="300" y="230" width="178" height="30" rx="15" fill="#60a5fa1a" stroke="#60a5fa80"/>
+  <text x="316" y="250" font-size="14" fill="#e8ecf4">🤖 Claude Code</text></g><g class="pair-in" style="animation-delay:1.05s"><rect x="490" y="230" width="178" height="30" rx="15" fill="#60a5fa1a" stroke="#60a5fa80"/>
+  <text x="506" y="250" font-size="14" fill="#e8ecf4">🛰️ Antigravity</text></g><g class="pair-in" style="animation-delay:1.20s"><rect x="680" y="230" width="178" height="30" rx="15" fill="#60a5fa1a" stroke="#60a5fa80"/>
+  <text x="696" y="250" font-size="14" fill="#e8ecf4">🛡️ From anywhere</text></g>
 </g>
-<rect width="900" height="260" rx="22" fill="none" stroke="#34d399" stroke-opacity=".28"/>
+<rect width="900" height="300" rx="22" fill="none" stroke="#34d399" stroke-opacity=".28"/>
 </svg>

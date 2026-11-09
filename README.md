@@ -44,11 +44,15 @@ status:    ONLINE ✅
 <a href="https://arizoteam.ir">
   <img src="https://img.shields.io/badge/Arizo--Agent-download-34d399?style=for-the-badge&labelColor=0c1021&logo=windows11&logoColor=60a5fa" alt="Download Arizo-Agent"/>
 </a>
+<a href="https://github.com/ArizoOwner/Arizo_Agent/releases/latest">
+  <img src="https://img.shields.io/github/v/release/ArizoOwner/Arizo_Agent?style=for-the-badge&labelColor=0c1021&color=60a5fa&label=latest" alt="Latest release"/>
+</a>
 
 <br/><br/>
 
-> **Now shipping:** *Arizo-Agent* — a Dynamic&nbsp;Island for Windows,
-> with a little robot named Ari. Get it at [arizoteam.ir](https://arizoteam.ir).
+> **Now shipping:** *Arizo-Agent 1.3* — a Dynamic&nbsp;Island for Windows,
+> with a little robot named Ari. New: drive **Claude Code** and **Antigravity**
+> on your PC from your phone, from anywhere. Get it at [arizoteam.ir](https://arizoteam.ir).
 
 <br/>
 
@@ -68,7 +72,7 @@ status:    ONLINE ✅
 <br/>
 
 **Backend, logic & data**<br/>
-<img src="https://skillicons.dev/icons?i=php,cs,nodejs,rust,mysql&theme=dark&perline=9" alt="Backend"/>
+<img src="https://skillicons.dev/icons?i=rust,tauri,nodejs,python,php,cs,mysql,sqlite,cloudflare&theme=dark&perline=9" alt="Backend"/>
 
 <br/>
 
@@ -96,10 +100,14 @@ status:    ONLINE ✅
 <a href="https://arizoteam.ir"><img src="https://img.shields.io/badge/DOWNLOAD-arizoteam.ir-34d399?style=for-the-badge&logo=windows11&logoColor=0c1021" alt="Download at arizoteam.ir"/></a>
 
 > **A Dynamic Island for Windows 10/11**<br/>
-> Translate in place, Spotify, live football and crypto, your phone — with Ari the robot.
+> Translate in place, Spotify, live football and crypto — with Ari the robot.<br/>
+> **The Bridge:** your phone and a second PC, at home or from anywhere through your own relay.<br/>
+> **Your AI on the go:** chat with Claude Code and Antigravity on the PC, approve each step from the phone.
 
 [![Intro](https://img.shields.io/badge/intro-Arizo__Agent-60a5fa?style=flat-square&logo=github&labelColor=0c1021)](https://github.com/ArizoOwner/Arizo_Agent)
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-Tauri-dea584?style=flat-square&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 </td>
 <td width="50%" valign="top" align="center">
@@ -149,7 +157,20 @@ status:    ONLINE ✅
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top" align="center">
+<td width="50%" valign="top" align="center">
+
+### 🎬 Arizo Movie
+
+<a href="https://github.com/ArizoOwner/Arizo_Movie"><img src="https://img.shields.io/badge/SERVERLESS-Cloudflare%20Workers-f38020?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=0c1021" alt="Serverless on Cloudflare Workers"/></a>
+
+> **24/7 Telegram movie bot**<br/>
+> Cloudflare Workers + D1, TMDB, and a web set-up wizard.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+</td>
+<td width="50%" valign="top" align="center">
 
 ### 🖨️ Bozorgmehr Digital Print
 
@@ -169,19 +190,7 @@ status:    ONLINE ✅
 
 <br/>
 
-<a href="https://github.com/ArizoOwner">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ArizoOwner&show_icons=true&theme=dark&bg_color=0c1021&title_color=34d399&icon_color=60a5fa&text_color=e8ecf4&border_color=1a2a3a&border_radius=12" alt="GitHub stats"/>
-</a>
-&nbsp;
-<a href="https://github.com/ArizoOwner">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArizoOwner&layout=compact&theme=dark&bg_color=0c1021&title_color=34d399&text_color=e8ecf4&border_color=1a2a3a&border_radius=12&langs_count=6" alt="Top languages"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/ArizoOwner">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArizoOwner&theme=dark&background=0c1021&ring=34d399&fire=60a5fa&currStreakLabel=34d399&sideLabels=e8ecf4&currStreakNum=e8ecf4&sideNums=e8ecf4&dates=8b95a8&border=1a2a3a&border_radius=12" alt="GitHub streak"/>
-</a>
+<img src="assets/stats.svg" width="100%" alt="GitHub activity: contributions, longest streak, repositories, stars and top languages">
 
 </div>
 
