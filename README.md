@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="AmirMSR — AmirHossein Tighi, founder of Arizo: full-stack developer, network and security, UI/UX and brand">
+<img src="assets/hero.svg" width="100%" alt="AmirMSR — AmirHossein, founder of Arizo: full-stack developer, network and security, UI/UX and brand">
 
 <p>
   <a href="https://arizoteam.ir"><img src="https://img.shields.io/badge/ArizoTeam.ir-05040d?style=for-the-badge&logo=safari&logoColor=22d3ee" alt="ArizoTeam"/></a>
@@ -18,7 +18,7 @@
 <td width="55%" valign="top">
 
 ```yaml
-name:      "AmirHossein Tighi"   # AmirMSR
+name:      "AmirHossein"         # AmirMSR
 location:  "Iran"
 studio:    "Arizo — Development & Design Studio"
 education: "Software Engineering · Fanni-Herfeyi University"
